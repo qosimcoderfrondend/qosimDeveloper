@@ -1,0 +1,2 @@
+# qosimDeveloper
+qosimcoder
